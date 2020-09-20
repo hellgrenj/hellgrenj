@@ -1,7 +1,7 @@
 ```
 {
     "name": "Johan Hellgren",
-    "likes": ["coding", "mountain biking", "movies", "wine"],
+    "likes": ["coding", "mountain biking", "movies"],
     "loves": "family",
     "myGithubAccount": {
         "purpose": "Mostly for trying stuff out, having fun and sharing it with whoever finds it interesting..",
