@@ -3,7 +3,7 @@ Hi!
 I like to create stuff and share it with others.
 
 ...and sometimes my clients let me open source stuff i build for them as well!     
-For example:  
+for example:  
 
 [slu-docbot](https://github.com/SLU-IT-arkitektur/slu-docbot)   
 A QA bot using Retrieval-Augmented Generation (RAG), Redis, Semantic Search, OpenAI and Python.  
