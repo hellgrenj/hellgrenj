@@ -6,7 +6,7 @@ I like to create stuff and share it with others.
 for example:  
 
 [slu-docbot](https://github.com/SLU-IT-arkitektur/slu-docbot)   
-A QA bot using Retrieval-Augmented Generation (RAG), Redis, Semantic Search, OpenAI and Python.  
+a QA bot using Retrieval-Augmented Generation (RAG), Redis, Semantic Search, OpenAI and Python.  
 
 
 
